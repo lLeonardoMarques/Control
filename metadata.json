@@ -1,0 +1,6 @@
+{
+  "name": "Flávia Marques · Gestão & Leads Anti-Frizz",
+  "description": "Painel de controle profissional para Flávia Marques Hair Specialist: gestão de leads do quiz anti-frizz, anamnese capilar, conversão comercial e controle de valores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
